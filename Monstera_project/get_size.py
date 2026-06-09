@@ -162,9 +162,9 @@ class LeafAnalyzer:
             cv2.drawMarker(debug_img, bod, (0, 255, 0),
                            markerType=cv2.MARKER_TILTED_CROSS, markerSize=20, thickness=3)
         for bod in inner_pts:
-            cv2.circle(debug_img, bod, 20, (255, 0, 0), -1)
+            cv2.circle(debug_img, bod, 15, (255, 0, 0), -1)
         for bod in outer_pts:
-            cv2.circle(debug_img, bod, 20, (0, 0, 255), -1)
+            cv2.circle(debug_img, bod, 15, (0, 0, 255), -1)
 
         texts = [f"Width: {width_cm:.2f} cm", f"Height: {height_cm:.2f} cm",
                  f"Outer: {outer_fenestration}", f"Inner: {inner_fenestration}"]
@@ -179,7 +179,7 @@ class LeafAnalyzer:
 
 
 if __name__ == "__main__":
-    FILE = "t6.jpg"
+    FILE = "pic1.jpg"
     analyzer = LeafAnalyzer(FILE)
 
     width, height = analyzer.get_size()
