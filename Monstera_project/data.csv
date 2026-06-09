@@ -1,0 +1,34 @@
+,id_x,plant_id,leaf_order,matured_at,length_cm,width_cm,outer_fenestration_count,inner_fenestration_count,notes_x,matured_at_estimated,cultivar,acquired_at,growing_medium,light_type,notes_y,initial_leaf_order
+0,1,3,1,2025-07-04,10.0,7.0,0,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+1,2,3,2,2025-08-15,12.0,9.0,0,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+2,3,3,3,2025-09-26,14.0,12.0,0,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+3,4,3,4,2025-11-07,15.0,14.0,1,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+4,5,3,5,2025-12-20,17.0,15.0,0,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+5,6,3,6,2026-01-31,22.0,19.0,1,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+6,7,3,7,2026-03-14,26.0,27.0,4,0,,True,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+7,8,3,8,2026-04-25,30.0,35.0,7,0,,False,Yellow Marilyn,2025-08-15,Deep Water Culture,Grow Light,,2
+8,9,1,1,2025-06-13,15.0,12.0,0,0,,True,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+9,10,1,2,2025-08-15,14.0,12.0,0,0,,True,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+10,11,1,3,2025-10-17,15.0,14.0,0,0,,True,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+11,12,1,4,2025-12-20,21.0,17.0,2,0,,True,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+12,13,1,5,2026-02-21,21.0,23.0,3,0,,True,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+13,14,1,6,2026-04-25,31.0,33.0,6,0,,False,Thai Constelation,2025-08-15,Deep Water Culture,Grow Light,Low variegated,2
+14,15,2,1,2025-06-22,9.0,7.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+15,16,2,2,2025-08-15,11.0,8.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+16,17,2,3,2025-10-08,12.0,10.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+17,18,2,4,2025-11-30,12.0,12.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+18,19,2,5,2026-01-23,15.0,15.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+19,20,2,6,2026-03-17,19.0,20.0,0,0,,True,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+20,21,2,7,2026-05-10,20.0,20.0,0,0,,False,Thai Constelation,2025-08-15,Chunky mix,West window,Medium white spots,2
+21,22,4,1,2025-06-09,13.0,10.0,0,0,,True,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+22,23,4,2,2025-08-15,13.0,11.0,0,0,,True,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+23,24,4,3,2025-10-21,17.0,16.0,1,0,,True,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+24,25,4,4,2025-12-27,16.0,15.0,1,0,,True,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+25,26,4,5,2026-03-04,21.0,20.0,2,0,,True,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+26,27,4,6,2026-05-10,24.0,25.0,3,0,,False,Yellow Marilyn,2025-08-15,Chunky mix,West window,,2
+27,28,5,1,2025-08-15,16.0,13.0,0,0,,True,Mint,2025-08-15,Chunky mix,Grow Light,,1
+28,29,5,2,2025-10-09,16.0,14.0,1,0,,True,Mint,2025-08-15,Chunky mix,Grow Light,,1
+29,30,5,3,2025-12-02,19.0,18.0,3,0,,True,Mint,2025-08-15,Chunky mix,Grow Light,,1
+30,31,5,4,2026-01-26,23.0,21.0,5,0,,True,Mint,2025-08-15,Chunky mix,Grow Light,,1
+31,32,5,5,2026-03-21,26.0,23.0,7,4,,True,Mint,2025-08-15,Chunky mix,Grow Light,,1
+32,33,5,6,2026-05-15,31.0,28.0,10,1,,False,Mint,2025-08-15,Chunky mix,Grow Light,,1
