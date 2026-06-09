@@ -57,7 +57,7 @@ Stabilizace v rychlosti učení (learning_rate = 0.05).
 ### Validace modelu:
 Proti leakingu dat využívám **LOGO (Leave-One-Group-Out)** -- jedna rostlina je vždy testovací. Výsledky jsou vyhodnoceny pomocí RMSE v cm po zpětné inverzi predikcí.
 
-## 🛠️ Požadavky a Instalace
+## Požadavky a Instalace
 pip install numpy pandas xgboost scikit-learn opencv-python matplotlib sqlalchemy pymysql mysql-connector-python python-dotenv
 
 Vytvoř lokální SQL databázi pomocí monstera.sql
