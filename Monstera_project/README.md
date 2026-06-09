@@ -29,7 +29,7 @@ Využívám modrou podložku s černým referenčním čtvercem o velikosti 5x5 
     Vnější díry: Detekovány pomocí analýzy konvexní obálky ("cv2.convexityDefects") + hierarchie kontur s větším limitem plochy.
 
 Ukázka detekce listu pomocí OpenCV
-![Vizualizace detekce a fenestrace](assets/vystup_detekce.jpg)
+![Vizualizace detekce a fenestrace](assets/vystup_detekce.jpeg)
 
 ## Feature Engineering & Machine Learning
 Protože jsem měl problémy s regresí od stromových algoritmů (nepredikují větší hodnoty než viděly), přešel jsem k predikci faktoru růstu.
